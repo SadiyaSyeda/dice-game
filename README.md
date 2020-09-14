@@ -44,7 +44,7 @@
  #### 4. School Location: 
  - Location of the school with a map pin on the map.
   
-### Architecture 
+## Architecture 
   - The architecture follows MVVM design pattern along with Modularity, Single Responsibility, Scalability and Testability.
      #### Modularity
      - The classes  have been modularized into multiple logical modules like Controller, Network Layer, Data/Presentation Layer, UI Layer. 

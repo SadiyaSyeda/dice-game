@@ -1,7 +1,10 @@
 ##  20200914-SadiyaJabeen-NYCSchools
 
-
+## NYC Schools Home Screen
 ![NYCSchoolsListScreen](https://user-images.githubusercontent.com/29897552/93045578-5d163b80-f60c-11ea-8d78-e37fe930b184.gif)
+
+
+## NYC School Details Screen
 
 ![NYCSchoolDetailScreen](https://user-images.githubusercontent.com/29897552/93045778-f47b8e80-f60c-11ea-87d8-cc85c4783681.gif)
 

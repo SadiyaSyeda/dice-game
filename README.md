@@ -21,7 +21,7 @@
 #### Open School details
   - Clicking on a cell will take the user to the Details Screen for the selected school.
   
- #### Details Screen
+ ### Details Screen
  
  The Details screen will have the following sections:
  #### 1. SAT Scores: 

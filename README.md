@@ -3,9 +3,6 @@
 ## NYC Schools Home Screen
 ![NYCSchoolsListScreen](https://user-images.githubusercontent.com/29897552/93045578-5d163b80-f60c-11ea-8d78-e37fe930b184.gif)
 
-\n\n\n
-
-
 
 
 ## NYC School Details Screen
